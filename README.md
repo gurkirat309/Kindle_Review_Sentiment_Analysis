@@ -26,6 +26,9 @@ Any other interesting analysis
 
 # Best Practises
 Preprocessing And Cleaning
+
 Train Test Split
+
 BOW,TFIDF,Word2vec
+
 Train ML algorithms
